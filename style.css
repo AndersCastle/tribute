@@ -1,0 +1,67 @@
+
+#main{
+
+    display: block;
+    background-color: rgb(47, 47, 134);
+    margin: 2%;
+
+}
+
+h1{
+    text-align: center;
+    font: 3em monospace;
+}
+
+figure{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#image{
+    max-width: 70%;
+    max-height: 50%;
+    border: 3px solid #ffffff;
+   
+}
+
+#img-caption{
+    font: 1.2rem monospace;
+}
+
+#tribute-info{
+    background-color: #ffffff;
+}
+.cajas{
+    margin: 3%;
+    border: 3px solid  rgb(47, 47, 134);
+}
+
+p{
+    text-align: center;
+}
+
+.content-reproductor{
+    text-align: center;
+    background-color: aqua;
+    display: inline-block;
+    justify-content: center;
+    max-width: 90%;
+}
+
+#lista-canciones{
+    text-align: center;
+    margin: auto;
+}
+
+.reproductor-image{
+    max-width: 50%;
+    max-height: 50%;
+}
+
+audio{
+    max-width: 90%;
+}
+
+span{
+    text-align: center;
+}
